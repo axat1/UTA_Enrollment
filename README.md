@@ -54,6 +54,26 @@ API request is made using Postman.
 - DELETE
   - /api/<idx>
 
+## Home Page
+  ![HomePage](https://user-images.githubusercontent.com/55522031/119269737-dabc2d80-bc16-11eb-904a-e21e956a20f2.JPG)
+
+## Login Page
+  ![login](https://user-images.githubusercontent.com/55522031/119269775-05a68180-bc17-11eb-81b6-72c98d14547c.JPG)
+
+## User Home Page
+  ![Home_Page](https://user-images.githubusercontent.com/55522031/119269787-19ea7e80-bc17-11eb-8780-0c835269b1ea.JPG)
+
+## Register Page
+  ![register](https://user-images.githubusercontent.com/55522031/119269798-253daa00-bc17-11eb-99ce-4214f0aca065.JPG)
+
+## Courses Page
+  ![courses](https://user-images.githubusercontent.com/55522031/119269808-31c20280-bc17-11eb-89c6-9e5c96dfcc09.JPG)
+
+## Enrollment Page
+  ![enrollment](https://user-images.githubusercontent.com/55522031/119269816-3f778800-bc17-11eb-9524-723b2f79db1a.JPG)
+
+
+  
 ### Some errors might occur
   - There might be version conflict between `flask_restplus` and `flask` so change some imports in different files of your environment if error occurs :
 
@@ -61,3 +81,4 @@ API request is made using Postman.
 
       > import flask.scaffold
       >flask.helpers._endpoint_from_view_func = flask.scaffold._endpoint_from_view_func
+ 
