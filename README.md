@@ -29,7 +29,7 @@ API request is made using Postman.
 
   - ### Clone this repository using following command
 
-    - `git clone https://`
+    - `git clone https://github.com/axat1/UTA_Enrollment.git`
 
   - ### Download all the requirements from requirements.txt file
     - `pip install -r requirements.txt`
